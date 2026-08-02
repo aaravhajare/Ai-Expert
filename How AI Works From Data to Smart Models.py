@@ -64,7 +64,6 @@ while True :
         emoji = "????"
 
     else:
-
         sentiment_type = "Neutral"
 
         color = Fore.YELLOW
