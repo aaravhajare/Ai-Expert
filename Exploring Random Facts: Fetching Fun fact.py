@@ -20,7 +20,7 @@ while True :
 
     inp = input("press enter to get a random fact about tech : ")
 
-    if inp == "exit" or "quit" :
+    if inp == "exit" or inp == "quit" :
         break
 
     get_random_fact()
